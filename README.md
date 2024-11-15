@@ -5,7 +5,7 @@
 Passionate tech enthusiast and a self-taught web developer.
 
 # My Skills
-### Technologies I've been working with recently
+### Technologies I've been working with 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
